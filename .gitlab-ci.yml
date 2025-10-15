@@ -1,0 +1,45 @@
+# .gitlab-ci.yml
+# NON MODIFICAR ESTE FICHEIRO!!!
+image: ruby:latest
+
+# Deploy to GitLab Pages
+variables:
+  JEKYLL_ENV: production
+  LC_ALL: C.UTF-8
+
+pages:
+  stage: deploy
+  script:
+    - echo "The site will be deployed to $CI_PAGES_URL"
+    - gem install bundler
+    - bundle install
+    - bundle exec jekyll build --source web --destination public --baseurl "$CI_PROJECT_NAME"
+  pages: true
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+
+# Check if the folders web, electronica, mecanica, software and the file README.md exist
+# and raise alert if any of them is missing. Also check that they are not empty.
+check_required_files:
+  stage: deploy
+  script:
+    - |
+      required_paths=("web" "electronica" "mecanica" "software" "README.md")
+      for path in "${required_paths[@]}"; do
+        if [ ! -e "$path" ]; then
+          echo "Error: $path is missing."
+          exit 1
+        elif [ -d "$path" ] && [ -z "$(ls -A "$path")" ]; then
+          echo "Error: $path is empty."
+          exit 1
+        elif [ -f "$path" ] && [ ! -s "$path" ]; then
+          echo "Error: $path is empty."
+          exit 1
+        fi
+      done
+      echo "All required files and directories are present and not empty."
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+      when: always
+  allow_failure: false
