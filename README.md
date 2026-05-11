@@ -12,7 +12,7 @@ En la web del proyecto puedes consultar toda la información relacionada con el 
 
 ## Escudo del equipo
 
-![Logo del equipo](web-proyecto/assets/logos/logo_color_sinfondo.png)
+![Logo del equipo](web/assets/logos/logo_color_sinfondo.png)
 
 ---
 
