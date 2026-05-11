@@ -6,7 +6,7 @@
 - **Noelia Castro Rodríguez** – GitHub: [@liln0e](https://github.com/liln0e) – Rol: Diseño (logo, presentaciones, documentación gráfica)  
 
 ## Escudo del equipo  
-![Logo del equipo](assets/logo.svg)  
+![Logo del equipo](web/assets/logos/logo.svg)  
 
 ## Roles definidos  
 - **Software** → Carmen  
