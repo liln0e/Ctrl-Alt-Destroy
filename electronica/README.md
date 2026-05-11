@@ -14,7 +14,7 @@ La PCB ha sido diseñada para integrar los componentes electrónicos necesarios 
 
 ### Diseño de la PCB
 
-![Diseño PCB](electronica/assets/pcb/pcb-diseno.jpg)
+![Diseño PCB](https://gitlab.com/epse-usc/Ctrl-Alt-Destroy/-/blob/aa22e777ae549633d95c27b41efc05c2cddbb175/electronica/assets/pcb/pcb-diseno.jpg)
 
 Vista del diseño de la PCB realizado en KiCad, donde se pueden observar las pistas, conexiones y distribución de componentes.
 
