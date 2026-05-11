@@ -3,53 +3,56 @@ layout: page
 title: Inicio
 ---
 
-# Benvid@ a web do Equipo Modelo
+# Bienvenid@ a la web de Ctrl+Alt+Destroy
 
-<img src="assets/img/logo_equipo_modelo.png" class="logo_equipo" alt="Logo Equipo Modelo">
+<p align="center">
+  <img src="assets/logos/logo_color_sinfondo.png" alt="Logo Ctrl+Alt+Destroy" width="300">
+</p>
 
-En Equipo Modelo somos grupo de apaixonados pola enxeñaría e a robótica que se dedica á creación de **BattleBots de alto rendemento**. A nosa meta é combinar innovación, estratexia e tecnoloxía para competir ao máximo nivel en combates de robots. Apostamos por deseños robustos, solucións intelixentes e un forte espírito de equipo, buscando non só gañar batallas, senón tamén inspirar a novas xeracións no mundo da ciencia e da enxeñaría. Únete a nós nesta aventura onde a creatividade se transforma en metal e a paixón en movemento!
+En **Ctrl+Alt+Destroy** somos un equipo dedicado al diseño y construcción de un robot **BattleBot**, combinando electrónica, modelado 3D, programación y documentación técnica para desarrollar un robot funcional.
 
-# O noso equipo 🤝
+Nuestro objetivo es aplicar conocimientos de ingeniería, diseño y programación para construir un robot eficiente, bien documentado y capaz de integrar correctamente todos sus componentes, fomentando el trabajo en equipo y el aprendizaje práctico.
 
-Aquí podes coñecer ás persoas que forman parte do proxecto:
+En esta web se recoge la documentación del proyecto, incluyendo el diseño mecánico, electrónico, software, costes y avances del robot.
 
-<div class="team">
-  <div class="member">
-    <img src="assets/img/foto_enrique.jpeg" alt="Enrique ">
-    <h2>Enrique Comesaña Figueroa</h2>
-    <h3><strong>Rol: </strong>Coordinador do equipo e responsable de deseño hardware e construcción</h3>
-    <p>Como coordinador do equipo, encárgome de organizar o traballo e facilitar a comunicación entre todas as áreas do proxecto. Ademais, son responsable do deseño de hardware e da construción dos prototipos, asegurando que cada compoñente estea optimizado e cumpra cos requisitos técnicos. O meu obxectivo é combinar creatividade e precisión para transformar as ideas do equipo en solucións físicas robustas e funcionais.</p>
-  </div>
+---
 
-  <hr>
+# Nuestro equipo
 
-  <div class="member">
-    <img src="assets/img/foto_daniel.jpeg" alt="Daniel">
-    <h2>Daniel Nagy</h2>
-    <h3><strong>Rol: </strong>Responsable de diseño e implentación de software</h3>
-    <p>"Como responsable de deseño e implementación de software, dedícome a planificar a arquitectura das aplicacións e a desenvolver solucións eficientes que dean soporte ao funcionamento global do proxecto. O meu labor abrangue dende a definición da lóxica e a programación ata a integración co hardware, garantindo robustez, escalabilidade e un rendemento óptimo. O meu obxectivo é traducir as necesidades do equipo en ferramentas dixitais fiables e innovadoras.</p>
-  </div>
+Aquí puedes conocer a las personas que forman parte del proyecto:
 
-  <hr>
+## Carmen Sestelo Arias
 
-  <div class="member">
-    <img src="assets/img/foto_marcos.jpeg" alt="Marcos">
-    <h2>Marcos Fernández González</h2>
-    <h3><strong>Rol: </strong>Responsable de comunicación (Web e documentación)</h3>
-    <p>Como responsable de comunicación, son quen de dar visibilidade ao traballo do equipo a través da web e da elaboración de documentación clara e accesible. Encárgome de estruturar os contidos, manter actualizada a páxina oficial e asegurar que toda a información estea presentada de forma coherente e atractiva. O meu obxectivo é facilitar a comprensión do proxecto tanto dentro do equipo como cara ao público, reforzando a súa imaxe e impacto.</p>
-  </div>
-</div>
+GitHub: [@carmensesteloarias](https://github.com/carmensesteloarias)
 
-<style>
-.logo_equipo {
-    max-height: 300px;
-}
-.team {
-  justify-content: space-around;
-  gap: 20px;
-  margin-top: 2rem;
-}
-.member img {
-  width: 200px;
-  border-radius: 50%;
-</style>
+**Rol:** Electrónica, diseño PCB, generación de código y construcción del robot.
+
+**Motivación:** Participar en el desarrollo electrónico del robot y aplicar conocimientos de integración de componentes, diseño de circuitos y programación.
+
+**Aportación al equipo:** Diseño de la PCB, integración de componentes electrónicos, colaboración en la generación y mejora del código del robot junto con Brais y construcción física del robot.
+
+---
+
+## Brais Maciñeiras Pena
+
+GitHub: [@braisiiito](https://github.com/braisiiito)
+
+**Rol:** Modelado e impresión 3D del chasis, generación de código y coordinación.
+
+**Motivación:** Diseñar la estructura física del robot, trabajar en el desarrollo mecánico mediante modelado e impresión 3D y participar en la programación del sistema.
+
+**Aportación al equipo:** Diseño del chasis, modelado 3D, preparación de piezas para fabricación y colaboración en la generación del código del robot junto con Carmen.
+
+---
+
+## Noelia Castro Rodríguez
+
+GitHub: [@liln0e](https://github.com/liln0e)
+
+**Rol:** Gestión del GitHub, web y documentación.
+
+**Motivación:** Organizar la documentación del proyecto y mantener la presentación visual y técnica del equipo.
+
+**Aportación al equipo:** Gestión del repositorio, desarrollo de la web, elaboración de documentación gráfica y técnica y organización visual del proyecto.
+
+**Extra:** Una vez terminado el robot, también se encargó de decorarlo mediante pintura y pegatinas para darle una identidad visual propia. Aunque no sea un aspecto especialmente técnico, aporta personalidad al proyecto y hace el robot más reconocible y memorable.
