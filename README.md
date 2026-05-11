@@ -41,4 +41,4 @@ GitHub: [@liln0e](https://github.com/liln0e)
 
 Este repositorio servirá para almacenar y documentar el desarrollo del proyecto, incluyendo avances relacionados con la electrónica, mecánica, software y documentación del robot.  
 
-Enlace al repositorio: [BattleBot](https://github.com/carmensesteloarias/BattleBot)
+<!-- Enlace al repositorio: [BattleBot](https://github.com/carmensesteloarias/BattleBot) -->
