@@ -49,7 +49,7 @@ GitHub: [@liln0e](https://github.com/liln0e)
 
 **Aportación al equipo:** Gestión del repositorio, desarrollo de la web, elaboración de documentación gráfica y técnica y organización visual del proyecto.
 
-**Extra (muy importante y bastante silly):** Una vez terminado el robot, también se encargó de decorarlo pintándolo y añadiendo pegatinas para darle personalidad propia. Aunque no sea especialmente profesional ni técnicamente relevante, hace que el robot sea mucho más gracioso y memorable.
+**Extra:** Una vez terminado el robot, también se encargó de decorarlo pintándolo y añadiendo pegatinas para darle personalidad propia. Aunque no sea especialmente profesional ni técnicamente relevante, hace que el robot sea mucho más gracioso y memorable.
 
 ---
 
