@@ -1,0 +1,13 @@
+title: Ctrl+Alt+Destroy
+description: Web del equipo Ctrl+Alt+Destroy para el proyecto BattleBot
+
+theme: minima
+markdown: kramdown
+sass:
+  quiet_deps: true
+
+header_pages:
+  - index.md
+  - documentacion.md
+  - costes.md
+  - fotos.md
