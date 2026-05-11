@@ -5,7 +5,7 @@ title: Documentación
 
 # Documentación del proyecto
 
-En esta sección se recoge la información técnica relacionada con el diseño electrónico, mecánico y software del robot desarrollado por el equipo **Ctrl+Alt+Destroy**.
+En esta sección se recoge la información técnica relacionada con el diseño mecánico, electrónico y software del robot desarrollado por el equipo **Ctrl+Alt+Destroy**.
 
 ---
 
@@ -38,18 +38,6 @@ La parte electrónica del robot se centra en el diseño y fabricación de una PC
 
 La placa ha sido diseñada utilizando **KiCad**, permitiendo organizar conexiones eléctricas y facilitar el ensamblaje del sistema.
 
-## Diseño de la PCB
-
-<img src="assets/pcb/pcb-diseno.jpg" alt="Diseño PCB">
-
-Vista del diseño de la PCB realizado en KiCad, donde se pueden observar las conexiones, distribución de componentes y pistas eléctricas.
-
-## PCB fabricada
-
-<img src="assets/pcb/pcb-real.jpg" alt="PCB fabricada">
-
-PCB fabricada físicamente antes del ensamblaje de componentes.
-
 ## Archivos electrónicos del proyecto
 
 Dentro del repositorio se incluyen los siguientes archivos:
@@ -57,6 +45,10 @@ Dentro del repositorio se incluyen los siguientes archivos:
 - `sumo_robot.kicad_sch` → Esquemático electrónico del circuito.
 - `sumo_robot.kicad_pcb` → Diseño de la PCB.
 - `sumo_robot.kicad_pro` → Archivo del proyecto de KiCad.
+
+Estos archivos permiten revisar y modificar el diseño electrónico del robot.
+
+Las imágenes del diseño y fabricación de la PCB pueden consultarse en el apartado **Fotos y vídeos**.
 
 **Responsable:** Carmen Sestelo Arias.
 
@@ -66,7 +58,7 @@ Dentro del repositorio se incluyen los siguientes archivos:
 
 ## Objetivo
 
-El software del robot será el encargado de gestionar el comportamiento general del sistema, incluyendo el control de movimiento y la interacción entre componentes electrónicos.
+El software del robot será el encargado de gestionar el comportamiento general del sistema, incluyendo el control del movimiento y la interacción entre componentes electrónicos.
 
 ## Funcionalidades previstas
 
@@ -76,6 +68,14 @@ El software del robot será el encargado de gestionar el comportamiento general 
 - Ajustes y pruebas de funcionamiento.
 
 El desarrollo del software se irá incorporando progresivamente al repositorio conforme avance el proyecto.
+
+**Responsable:** Carmen Sestelo Arias.
+
+---
+
+# Comunicación, documentación y web
+
+La documentación del proyecto y la página web del equipo servirán para mostrar el progreso del robot y organizar la información técnica del proyecto.
 
 **Responsable:** Noelia Castro Rodríguez.
 
@@ -89,10 +89,10 @@ El proyecto está organizado en distintas carpetas para facilitar el trabajo col
 electronica/
 mecanica/
 software/
-web/
+web-proyecto/
 ```
 
 - **electronica/** → Diseño PCB y documentación electrónica.
 - **mecanica/** → Modelado y diseño estructural del robot.
 - **software/** → Código del robot.
-- **web/** → Página web del proyecto.
+- **web-proyecto/** → Página web y documentación visual del proyecto.
