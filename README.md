@@ -5,7 +5,7 @@
 **Ctrl+Alt+Destroy** es un equipo dedicado al diseño y construcción de un robot BattleBot, combinando electrónica, modelado 3D y documentación técnica para desarrollar un robot funcional.  
 
 ## Escudo del equipo  
-![Logo del equipo](web-proyecto/assets/logos/logo_color.jpg)  
+![Logo del equipo](web-proyecto/assets/logos/logo_color_sinfondo.png)  
 
 ## Integrantes del equipo  
 
