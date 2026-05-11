@@ -20,7 +20,7 @@ El chasis ha sido fabricado mediante **impresión 3D en la universidad**, permit
 Durante el proceso de construcción fue necesario realizar algunas modificaciones respecto al diseño inicial:
 
 - Se realizaron agujeros adicionales para adaptar correctamente la fijación de los tornillos de los motores, ya que las medidas iniciales no coincidían completamente.
-- Se ajustó la conexión del sensor encargado de detectar el suelo, modificando el pin utilizado en la **ESP32** al **GPIO 34**, debido a problemas de detección durante las pruebas.
+- Se ajustó la conexión del sensor encargado de detectar el suelo, modificando la conexión al pin **GPIO 34** de la **ESP32**, debido a problemas de detección durante las pruebas.
 
 El diseño mecánico busca integrar de forma compacta la electrónica, motores, batería y sensores, manteniendo un tamaño reducido y una estructura funcional para el robot.
 
