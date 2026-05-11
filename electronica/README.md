@@ -14,13 +14,13 @@ La PCB ha sido diseñada para integrar los componentes electrónicos necesarios 
 
 ### Diseño de la PCB
 
-![Diseño PCB](pcb-diseno.png)
+![Diseño PCB](electronica/pcb-diseno.png.jpeg)
 
 Vista del diseño de la PCB realizado en KiCad, donde se pueden observar las pistas, conexiones y distribución de componentes.
 
 ### PCB fabricada
 
-![PCB fabricada](pcb-real.jpg)
+![PCB fabricada](electronica/pcb-real.png)
 
 PCB fabricada físicamente antes del ensamblaje de componentes.
 
