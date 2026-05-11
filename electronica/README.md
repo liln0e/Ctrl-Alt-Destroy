@@ -1,15 +1,27 @@
 # Diseño electrónico del robot
 
-En esta carpeta se incluye toda la documentación electrónica necesaria para la construcción del robot.
+En esta carpeta se incluye la documentación electrónica necesaria para la construcción del robot.
 
 ## Contenido
 
 - `sumo_robot.kicad_sch` → Esquemático electrónico del circuito.
 - `sumo_robot.kicad_pcb` → Diseño de la PCB del robot.
-- `sumo_robot.kicad_pro` → Proyecto de KiCad utilizado para el desarrollo.
+- `sumo_robot.kicad_pro` → Proyecto de KiCad.
 
-## Descripción
+## PCB del robot
 
-La parte electrónica del robot ha sido diseñada para controlar el movimiento, la alimentación y la integración de componentes electrónicos necesarios para el funcionamiento del BattleBot.
+La PCB ha sido diseñada para integrar los componentes electrónicos necesarios para el funcionamiento del robot, incluyendo conexiones de alimentación, control y sensores.
+
+### Diseño de la PCB
+
+![Diseño PCB](pcb-diseno.png)
+
+Vista del diseño de la PCB realizado en KiCad, donde se pueden observar las pistas, conexiones y distribución de componentes.
+
+### PCB fabricada
+
+![PCB fabricada](pcb-real.jpg)
+
+PCB fabricada físicamente antes del ensamblaje de componentes.
 
 Responsable: **Carmen Sestelo Arias**.
