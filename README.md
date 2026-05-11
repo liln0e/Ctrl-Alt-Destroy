@@ -2,7 +2,7 @@
 
 ## Presentación del equipo
 
-**Ctrl+Alt+Destroy** es un equipo dedicado al diseño y construcción de un robot BattleBot, combinando electrónica, modelado 3D, generación de código y documentación técnica para desarrollar un robot funcional.
+**Ctrl+Alt+Destroy** es un equipo dedicado al diseño y construcción de un robot BattleBot, combinando electrónica, modelado 3D, programación y documentación técnica para desarrollar un robot funcional.
 
 En la web del proyecto puedes consultar toda la información relacionada con el desarrollo, documentación y avances del robot:
 
@@ -49,7 +49,7 @@ GitHub: [@liln0e](https://github.com/liln0e)
 
 **Aportación al equipo:** Gestión del repositorio, desarrollo de la web, elaboración de documentación gráfica y técnica y organización visual del proyecto.
 
-**Extra:** Una vez terminado el robot, también se encargó de decorarlo pintándolo y añadiendo pegatinas para darle personalidad propia. Aunque no sea especialmente profesional ni técnicamente relevante, hace que el robot sea mucho más gracioso y memorable.
+**Extra:** Una vez terminado el robot, también se encargó de decorarlo mediante pintura y pegatinas para darle una identidad visual propia. Aunque no sea un aspecto especialmente técnico, aporta personalidad al proyecto y hace el robot más reconocible y memorable.
 
 ---
 
