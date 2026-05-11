@@ -40,13 +40,13 @@ La placa ha sido diseñada utilizando **KiCad**, permitiendo organizar conexione
 
 ## Diseño de la PCB
 
-<img src="web-proyecto/assets/pcb/pcb-diseno.jpg" alt="Diseño PCB">
+<img src="assets/pcb/pcb-diseno.jpg" alt="Diseño PCB">
 
 Vista del diseño de la PCB realizado en KiCad, donde se pueden observar las conexiones, distribución de componentes y pistas eléctricas.
 
 ## PCB fabricada
 
-<img src="web-proyecto/assets/pcb/pcb-real.jpg" alt="PCB fabricada">
+<img src="assets/pcb/pcb-real.jpg" alt="PCB fabricada">
 
 PCB fabricada físicamente antes del ensamblaje de componentes.
 
