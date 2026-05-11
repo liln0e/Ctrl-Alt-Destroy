@@ -24,8 +24,4 @@ Durante el proceso de construcción fue necesario realizar algunas modificacione
 
 El diseño mecánico busca integrar de forma compacta la electrónica, motores, batería y sensores, manteniendo un tamaño reducido y una estructura funcional para el robot.
 
-## Extra: decoración del robot
-
-Una vez terminado el robot, **Noelia Castro Rodríguez** también se encargó de decorarlo, pintándolo y añadiendo pegatinas para darle personalidad propia. Aunque no sea especialmente profesional ni técnicamente relevante, hace que el robot sea bastante más gracioso, memorable y con mucho más estilo.
-
 **Responsable principal del diseño mecánico:** Brais Maciñeiras Pena.
