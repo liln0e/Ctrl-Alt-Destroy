@@ -37,6 +37,8 @@ GitHub: [@liln0e](https://github.com/liln0e)
 
 **Aportación al equipo:** Gestión del repositorio, desarrollo de la web y elaboración de documentación gráfica y técnica.  
 
+---
+
 ## Repositorio  
 
 Este repositorio servirá para almacenar y documentar el desarrollo del proyecto, incluyendo avances relacionados con la electrónica, mecánica, software y documentación del robot.  
