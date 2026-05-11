@@ -5,7 +5,7 @@ title: Inicio
 
 # Bienvenid@ a la web de Ctrl+Alt+Destroy
 
-<img src="web-proyecto/assets/logos/logo.svg" class="logo_equipo" alt="Logo Ctrl+Alt+Destroy">
+<img src="assets/logos/logo.svg" class="logo_equipo" alt="Logo Ctrl+Alt+Destroy">
 
 En **Ctrl+Alt+Destroy** somos un equipo centrado en el diseño y construcción de un robot BattleBot, combinando electrónica, modelado 3D y documentación técnica para desarrollar un robot funcional. Nuestro objetivo es aplicar conocimientos de ingeniería, diseño y programación para construir un robot eficiente y bien documentado, fomentando el trabajo en equipo y el aprendizaje práctico.
 
