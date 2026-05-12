@@ -21,7 +21,7 @@ Esquemático electrónico del robot realizado en **KiCad**, donde se representan
 
 ![Diseño PCB](assets/pcb/pcb_kicad.png)
 
-Diseño actualizado de la PCB realizado en **KiCad**, incluyendo pistas, conexiones y distribución de componentes electrónicos.
+Diseño de la PCB realizado en **KiCad**, incluyendo pistas, conexiones y distribución de componentes electrónicos.
 
 ---
 
@@ -53,7 +53,7 @@ Pruebas de programación y ajuste del comportamiento del robot durante el desarr
 
 ![Robot final](assets/fotos/robot_final.jpeg)
 
-Versión final del robot tras el montaje completo. Una vez terminado, también se decoró con pintura y pegatinas para darle personalidad propia. Aunque no sea especialmente profesional ni técnicamente relevante, hace que el robot sea mucho más gracioso, reconocible y bastante *silly*.
+Versión final del robot tras el montaje completo. Una vez terminado, también se decoró con pintura y pegatinas para darle personalidad propia. Aunque no sea especialmente profesional ni técnicamente relevante, hace que el robot sea mucho más gracioso y reconocible
 
 ---
 
