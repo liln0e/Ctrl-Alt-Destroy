@@ -1,12 +1,13 @@
-title: Equipo Modelo
-description: Web modelo básico para o proxecto de BattleBot empregando Jekyll e GitLab Pages
+title: Ctrl+Alt+Destroy
+description: Proyecto académico del equipo Ctrl+Alt+Destroy. Desarrollo de un BattleBot como parte de las actividades prácticas del curso. En este repositorio se documentan los avances, incluyendo código, diseño, electrónica, mecánica y organización del equipo.
 
 theme: minima
 markdown: kramdown
+
 sass:
   quiet_deps: true
 
-# Control the header navigation in Minima: list pages in the order you want
+# Navegación superior de la web
 header_pages:
   - index.md
   - documentacion.md
