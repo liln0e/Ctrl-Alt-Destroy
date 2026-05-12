@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fotos y vídeos
+title: Fotos
 ---
 
 # Fotos del proyecto
@@ -9,43 +9,51 @@ En esta sección se muestran imágenes del proceso de diseño, construcción y p
 
 ---
 
+## Esquemático electrónico
+
+![Esquemático KiCad](assets/pcb/esquematico_kicad.png)
+
+Esquemático electrónico del robot realizado en **KiCad**, donde se representan las conexiones entre la **ESP32**, sensores, alimentación y controladores del sistema.
+
+---
+
 ## Diseño de la PCB
 
-![Diseño PCB](assets/pcb/pcb-diseno.jpg)
+![Diseño PCB](assets/pcb/pcb_kicad.png)
 
-Diseño de la PCB realizado en **KiCad** para integrar los componentes electrónicos del robot y organizar las conexiones del sistema.
+Diseño actualizado de la PCB realizado en **KiCad**, incluyendo pistas, conexiones y distribución de componentes electrónicos.
 
 ---
 
 ## PCB fabricada
 
-![PCB fabricada](assets/fotos/pcb-fabricada.jpg)
+![PCB fabricada](assets/pcb/pcb_fabricada.jpeg)
 
-PCB fabricada físicamente antes del ensamblaje de componentes electrónicos y realización de pruebas.
+PCB fabricada físicamente antes del ensamblaje de componentes y realización de pruebas del sistema.
 
 ---
 
-## Montaje inicial del robot
+## Montaje del robot
 
-![Montaje del robot](assets/fotos/robot-montaje.jpg)
+![Montaje del robot](assets/fotos/robot_montaje.jpeg)
 
-Primer montaje del robot con los motores, sensores, PCB y batería ya integrados dentro del chasis impreso en 3D.
+Proceso de ensamblaje del robot con integración de motores, sensores, PCB personalizada y batería dentro del chasis impreso en 3D.
 
 ---
 
 ## Programación y pruebas
 
-![Programación del robot](assets/fotos/robot-programacion.jpg)
+![Programación del robot](assets/fotos/robot_programacion.jpeg)
 
-Proceso de programación, ajuste y pruebas del robot durante el desarrollo del proyecto.
+Pruebas de programación y ajuste del comportamiento del robot durante el desarrollo del proyecto.
 
 ---
 
 ## Robot final
 
-![Robot final](assets/fotos/robot-final.jpg)
+![Robot final](assets/fotos/robot_final.jpeg)
 
-Versión final del robot tras el montaje completo. Además del ensamblaje técnico, se añadió una decoración personalizada con pintura y pegatinas para darle una personalidad propia y hacerlo más divertido y reconocible.
+Versión final del robot tras el montaje completo. Una vez terminado, también se decoró con pintura y pegatinas para darle personalidad propia. Aunque no sea especialmente profesional ni técnicamente relevante, hace que el robot sea mucho más gracioso, reconocible y bastante *silly*.
 
 ---
 
