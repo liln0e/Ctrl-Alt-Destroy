@@ -8,6 +8,8 @@ En la web del proyecto puedes consultar toda la información relacionada con el 
 
 **Web del proyecto:** https://battlebots.robotica.gal/Ctrl-Alt-Destroy/
 
+**Vídeo de la batalla:** https://www.youtube.com/live/FVRY-8WoZKk
+
 ---
 
 ## Escudo del equipo
