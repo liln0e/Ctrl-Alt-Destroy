@@ -33,6 +33,7 @@
 ```txt
 Ctrl-Alt-Destroy/
 ├── README.md
+├── LICENSE
 ├── electronica/   → Esquemático y PCB en KiCad
 ├── mecanica/      → Modelos 3D (.3mf) y G-code del chasis y la tapa
 ├── software/      → Código del robot (sumo_robot_final.ino)
@@ -59,6 +60,10 @@ Documentación detallada en la web:
 bundle install
 bundle exec jekyll serve --source web
 ```
+
+## Licencia
+
+Proyecto académico publicado bajo la [licencia MIT](./LICENSE).
 
 ## Sobre este repositorio
 
