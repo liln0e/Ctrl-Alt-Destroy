@@ -15,6 +15,8 @@ Nuestro objetivo es aplicar conocimientos de ingeniería, diseño y programació
 
 En esta web se recoge la documentación del proyecto, incluyendo el diseño mecánico, electrónico, software, costes y avances del robot.
 
+**▶ [Ver la batalla del robot en YouTube](https://www.youtube.com/live/FVRY-8WoZKk)**
+
 ---
 
 # Nuestro equipo

@@ -1,0 +1,25 @@
+# Jekyll
+_site/
+public/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+
+# KiCad: preferencias locales, copias de seguridad y bloqueos
+*.kicad_prl
+*-backups/
+*.bak
+*.lck
+fp-info-cache
+_autosave-*
+
+# Arduino / PlatformIO
+build/
+.pio/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

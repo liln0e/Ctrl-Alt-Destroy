@@ -1,73 +1,65 @@
 # Ctrl+Alt+Destroy
 
-## Presentación del equipo
+<p align="center">
+  <img src="web/assets/logos/logo_color_sinfondo.png" alt="Logo del equipo Ctrl+Alt+Destroy" width="260">
+</p>
 
-**Ctrl+Alt+Destroy** es un equipo dedicado al diseño y construcción de un robot BattleBot, combinando electrónica, modelado 3D, programación y documentación técnica para desarrollar un robot funcional.
+<p align="center">
+  <b>BattleBot de tipo sumo diseñado y construido por el equipo Ctrl+Alt+Destroy</b><br>
+  Grado en Robótica · Escola Politécnica Superior de Enxeñaría (EPSE) · USC
+</p>
 
-En la web del proyecto puedes consultar toda la información relacionada con el desarrollo, documentación y avances del robot:
-
-**Web del proyecto:** https://battlebots.robotica.gal/Ctrl-Alt-Destroy/
-
-**Vídeo de la batalla:** https://www.youtube.com/live/FVRY-8WoZKk
-
----
-
-## Escudo del equipo
-
-![Logo del equipo](web/assets/logos/logo_color_sinfondo.png)
-
----
-
-## Integrantes del equipo
-
-### Carmen Sestelo Arias
-GitHub: [@carmensesteloarias](https://github.com/carmensesteloarias)
-
-**Rol:** Electrónica, diseño PCB, generación de código y construcción del robot.
-
-**Motivación:** Participar en el desarrollo electrónico del robot y aplicar conocimientos de integración de componentes, diseño de circuitos y programación.
-
-**Aportación al equipo:** Diseño de la PCB, integración de componentes electrónicos, colaboración en la generación y mejora del código del robot junto con Brais y construcción física del robot.
+<p align="center">
+  <a href="https://www.youtube.com/live/FVRY-8WoZKk">▶ Ver la batalla</a> ·
+  <a href="https://liln0e.github.io/Ctrl-Alt-Destroy/">Web del proyecto</a> ·
+  <a href="https://battlebots.robotica.gal/Ctrl-Alt-Destroy/">Web oficial (battlebots.robotica.gal)</a>
+</p>
 
 ---
 
-### Brais Maciñeiras Pena
-GitHub: [@braisiiito](https://github.com/braisiiito)
+![Robot final](web/assets/fotos/robot_final.jpeg)
 
-**Rol:** Modelado e impresión 3D del chasis, generación de código y coordinación.
+## Descripción
 
-**Motivación:** Diseñar la estructura física del robot, trabajar en el desarrollo mecánico mediante modelado e impresión 3D y participar en la programación del sistema.
+**Ctrl+Alt+Destroy** es un robot BattleBot desarrollado como proyecto académico. Junta electrónica, modelado e impresión 3D, programación y documentación técnica en un robot funcional que compitió en el torneo de la asignatura.
 
-**Aportación al equipo:** Diseño del chasis, modelado 3D, preparación de piezas para fabricación y colaboración en la generación del código del robot junto con Carmen.
+- **Electrónica:** PCB propia diseñada en KiCad, con una ESP32 como controlador principal.
+- **Mecánica:** chasis y tapa modelados e impresos en 3D.
+- **Software:** código Arduino para el control de motores, la lectura de sensores y la lógica de combate.
+- **Documentación:** web hecha con Jekyll, con documentación técnica, costes y fotos del proceso.
 
----
+## Estructura del repositorio
 
-### Noelia Castro Rodríguez
-GitHub: [@liln0e](https://github.com/liln0e)
+```txt
+Ctrl-Alt-Destroy/
+├── README.md
+├── electronica/   → Esquemático y PCB en KiCad
+├── mecanica/      → Modelos 3D (.3mf) y G-code del chasis y la tapa
+├── software/      → Código del robot (sumo_robot_final.ino)
+└── web/           → Web de documentación (Jekyll)
+```
 
-**Rol:** Gestión del GitHub, web y documentación.
+Documentación detallada en la web:
 
-**Motivación:** Organizar la documentación del proyecto y mantener la presentación visual y técnica del equipo.
+- [Documentación técnica](web/documentacion.md)
+- [Costes](web/costes.md)
+- [Fotos del proceso](web/fotos.md)
 
-**Aportación al equipo:** Gestión del repositorio, desarrollo de la web, elaboración de documentación gráfica y técnica y organización visual del proyecto.
+## Equipo
 
-**Extra:** Una vez terminado el robot, también se encargó de decorarlo mediante pintura y pegatinas para darle una identidad visual propia. Aunque no sea un aspecto especialmente técnico, aporta personalidad al proyecto y hace el robot más reconocible y memorable.
+| Integrante | Rol |
+|---|---|
+| **Carmen Sestelo Arias** · [@carmensesteloarias](https://github.com/carmensesteloarias) | Electrónica, diseño de la PCB, código y construcción del robot |
+| **Brais Maciñeiras Pena** · [@braisiiito](https://github.com/braisiiito) | Modelado e impresión 3D del chasis, código y coordinación |
+| **Noelia Castro Rodríguez** · [@liln0e](https://github.com/liln0e) | Repositorio, web, documentación y decoración del robot |
 
----
+## Ver la web en local
 
-## Repositorio
+```bash
+bundle install
+bundle exec jekyll serve --source web
+```
 
-Este repositorio servirá para almacenar y documentar el desarrollo del proyecto, incluyendo avances relacionados con la electrónica, mecánica, software y documentación del robot.
+## Sobre este repositorio
 
-### Estructura del repositorio
-
-El proyecto está organizado en las siguientes carpetas:
-
-- **README.md** → Documento principal del proyecto.
-- **Web/** → Código fuente de la web de documentación y presentación del proyecto.
-- **electronica/** → Diseño de circuitos, PCB y documentación electrónica.
-- **mecanica/** → Diseño del chasis y estructura mecánica del robot.
-- **software/** → Código del robot y lógica de funcionamiento.
-- **.gitlab-ci.yml** → Configuración de despliegue de la web del proyecto.
-
-<!-- Enlace al repositorio: [BattleBot](https://github.com/carmensesteloarias/BattleBot) -->
+Esta es una copia del repositorio oficial del equipo, que está en GitLab (`epse-usc/Ctrl-Alt-Destroy`), con su historial completo. Aquí la web se publica en GitHub Pages con [`.github/workflows/pages.yml`](.github/workflows/pages.yml). El archivo `.gitlab-ci.yml` se mantiene porque es el que usa el repositorio oficial.
