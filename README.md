@@ -6,7 +6,8 @@
 
 <p align="center">
   <b>BattleBot de tipo sumo diseñado y construido por el equipo Ctrl+Alt+Destroy</b><br>
-  Grado en Robótica · Escola Politécnica Superior de Enxeñaría (EPSE) · USC
+  Grado en Robótica · Escola Politécnica Superior de Enxeñaría (EPSE) · USC<br>
+  Asignatura: <a href="https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/grado-robotica-2a-edicion/20252026/tecnologia-electrica-19946-19042-2-105699">Tecnología eléctrica</a>
 </p>
 
 <p align="center">
@@ -21,7 +22,7 @@
 
 ## Descripción
 
-**Ctrl+Alt+Destroy** es un robot BattleBot desarrollado como proyecto académico. Junta electrónica, modelado e impresión 3D, programación y documentación técnica en un robot funcional que compitió en el torneo de la asignatura.
+**Ctrl+Alt+Destroy** es un robot BattleBot desarrollado como proyecto de la asignatura **Tecnología eléctrica** del Grado en Robótica. Junta electrónica, modelado e impresión 3D, programación y documentación técnica en un robot funcional que compitió en el torneo de la asignatura.
 
 - **Electrónica:** PCB propia diseñada en KiCad, con una ESP32 como controlador principal.
 - **Mecánica:** chasis y tapa modelados e impresos en 3D.

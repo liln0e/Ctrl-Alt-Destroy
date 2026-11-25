@@ -15,6 +15,8 @@ Nuestro objetivo es aplicar conocimientos de ingeniería, diseño y programació
 
 En esta web se recoge la documentación del proyecto, incluyendo el diseño mecánico, electrónico, software, costes y avances del robot.
 
+Proyecto de la asignatura [Tecnología eléctrica](https://www.usc.gal/es/estudios/grados/ingenieria-arquitectura/grado-robotica-2a-edicion/20252026/tecnologia-electrica-19946-19042-2-105699) del Grado en Robótica (EPSE, USC).
+
 **▶ [Ver la batalla del robot en YouTube](https://www.youtube.com/live/FVRY-8WoZKk)**
 
 ---
